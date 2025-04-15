@@ -1,2 +1,2 @@
 # MFmpeg
-a media foundation rwrite of FFmepg
+a media foundation rewrite of FFmepg
