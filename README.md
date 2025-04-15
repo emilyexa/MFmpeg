@@ -1,2 +1,2 @@
 # MFmpeg
-media format windows 11 interface design for rendering.
+a media foundation rwrite of FFmepg
